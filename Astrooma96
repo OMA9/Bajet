@@ -36,7 +36,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",RIA HD
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHSfsL_64xaAUql5rDnGaj_U=jZwY/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHZ_6HfLAkVRtuHN4vtRtluo=rMPG/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
 
@@ -50,7 +50,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfueTB1HbGjyEPGhO4kbpVx0=TQVe/dash-wv/jitp-dashisowm/1000/default_ott.mpd?PID=&PAID=1000&deviceIdType=%5BdevIdType%5D&deviceId=9c7563597c557523b380990cd0b4585f&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-25ff8268-e64c-47a0-98f6-c3fed7b52f7a&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41k5piW7fDOXyn3bkrCuzrftVpRULr2CT-BadJAZkw9Ig=RtnH/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=73737f1e-65f4-4176-a95f-d08563751f66
 
 
 
@@ -66,7 +66,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrcIbORX1LgDbiwbe0gqQPcc=rTJQ/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/412YC97OfL0tRH7547SNxmrVDBgjAfPHO1PKEv_i2brqU=gPmY/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=1a676c36-12bd-443a-a7d4-a290abda0227
 
 
 
@@ -75,7 +75,7 @@ https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrcIbORX1LgDbiwbe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpGiu9d4kAEFWJAc94Pe6wbM=7sy3/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=9c7563597c557523b380990cd0b4585f&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-c7e987c3-d144-441e-816c-17a60886c732&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41O_F8KUa3u_jFFQIAtETDpKoEX8Sxjn7jwtmsaj6P74o=WPIV/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=068dafb5-b240-4793-927b-e827b0a0b9a6
 
 
 
@@ -568,7 +568,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
 
-#EXTINF:-1 tvg-id="BBCEarth" group-title="Documentaries" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",BBC Earth
+#EXTINF:-1 tvg-id="BBCEarth" group-title="Documentaries" tvg-logo="" ch-number="554",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default.mpd
